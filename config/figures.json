@@ -1,0 +1,14 @@
+{
+  "abraham_lincoln": {
+    "name": "Abraham Lincoln",
+    "description": "16th President of the United States, led the Union during the Civil War."
+  },
+  "marie_curie": {
+    "name": "Marie Curie",
+    "description": "Pioneer in radioactivity, first person to win two Nobel Prizes in different scientific fields."
+  },
+  "frederick_douglass": {
+    "name": "Frederick Douglass",
+    "description": "Abolitionist, author, orator, and statesman who escaped slavery and became a national leader of the abolitionist movement."
+  }
+}

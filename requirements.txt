@@ -1,0 +1,5 @@
+# CORE LIBS
+openai>=1.0
+pydub
+ffmpeg-python
+python-dotenv
